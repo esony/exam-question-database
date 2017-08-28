@@ -1,5 +1,10 @@
 # SQL-Project
 Personal project
 
-A relational database to store multiple choise questions and true/false statements for university course examination.
+A relational database to store multiple choice questions and true/false statements for university course exams.
+
+Multi course
+Multi subject
+Multi language
+Hints and feedback
 
